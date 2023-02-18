@@ -6,7 +6,7 @@ This project aims to develop a machine learning model that can classify fruits i
 
 To accomplish this task, we will perform data preprocessing on the given dataset by:
 
-1. Combining mass and width into a new feature called `mass_width`, as it has a higher correlation with the expected class.
+1. Combining `mass` and `width` into a new feature called `mass_width`, as it has a higher correlation with the expected class.
 2. Handling missing values, normalizing the data, and performing other preprocessing steps depending on the specific characteristics of the dataset.
 
 ## Model Development
